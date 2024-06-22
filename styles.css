@@ -121,7 +121,7 @@ body {
   color: white;
 }
 #getlink-button:active { /* these styles are active while get link is being pressed */
-  background-color: #ff2475;
+  background-color: #741f9c;
 }
 #getlink-textbox {
   margin-left: 5px;
@@ -171,7 +171,7 @@ body {
   display: block;
   box-sizing: border-box;
   position: relative;
-  /* background-image: url(assets/trainees/leegaeun.jpg);
+  /* background-image: url(assets/trainees/KangPriscilla.png);
   background-size: 60px; */
 }
 .table__entry-img {
